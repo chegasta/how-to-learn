@@ -109,7 +109,7 @@
   margin-top: 0px;
 }
 
-span {
+.two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
   font-weight: bold;
@@ -211,7 +211,6 @@ span {
   align-self: center;
   text-align: center;
   z-index: 3;
-  /* position: absolute; */
   margin-top: 100px;
   margin-bottom: 0px;
   order: 1;
@@ -224,7 +223,6 @@ span {
   align-self: center;
   text-align: center;
   z-index: 2;
-  /* position: absolute; */
   margin-top: 70px;
   order: 2;
 }
@@ -235,7 +233,6 @@ span {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
-  /* margin-right: 48px; */
   z-index: 2;
   position: absolute;
   top: 50%;
